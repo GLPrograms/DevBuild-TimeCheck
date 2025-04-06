@@ -1,7 +1,7 @@
 # DevBuild Time Check
 This script is used to check how far from the "opening" 
 of the devbuild zip file in uploadfiles.cc/Giggleland_devbuild_9213.zip.
-##### Created by Kauntar
+##### Created by [<img src="https://avatars.githubusercontent.com/u/100171133?v=4&size=64" width="16" style="border-radius:100px;"/>](image.png) [Kauntar](https://kauntar.github.io/)
 
 ## Requirements
 To use this script, you will need the following:
